@@ -37,6 +37,6 @@ extension UIImage {
     }
 }
 #Preview {
-    SuperHeroView(userName: "X")
+    SuperHeroView()
 }
 
